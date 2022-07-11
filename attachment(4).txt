@@ -1,0 +1,216 @@
+<!-- Amuda Sadiat Dasola
+   --Nairaland project
+-->
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>First HTML</title> 
+
+</head> 
+ 
+<body> 
+<hr 
+<b><p align="center" style="margin:0px"><b><a href="https://www.mysite.com" style="color:green">&#8358;AIRALAND FORUM</p></b></a>
+Welcome, <b>Guest:</b> <a href="http://www.nairaland.com/register">Join Nairaland</a> /
+<a href="http://www.mysite.com"> <b>LOGIN!</b></a>/
+<a href="http://www.mysite.com">Trending</a>/
+<a href="http://www.mysite.com">Recent</a>/
+<a href="http://www.mysite.com">New</a>
+<br>
+<b>Stats:</b> 2,465,769 members, 5,566,251 topics. <b>Date</b>: saturday, 02 May 2020 at 09:09 AM.
+<form>
+<input type="text/number">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="search" class="submit">
+</form>
+<hr>
+
+<b> <p align="center"style=background-color:lightgreen;margin:0px> NAIRALAND NIGERIAN FORUMS</b></p>
+<hr>
+<a href="http://www.mysite.com">Nairaland/General</a>:
+<a href="http://www.mysite.com">Politics</a>,
+<a href="http://www.mysite.com">Crime</a>,
+<a href="http://www.mysite.com">Romance</a>,
+<a href="http://www.mysite.com">Jobs/Vacancies</a>,
+
+<a href="http://www.mysite.com">Career</a>,
+
+<a href="http://www.mysite.com">Business</a>,
+
+<a href="http://www.mysite.com">Investment</a>,
+
+<a href="http://www.mysite.com">NYSC</a>,
+
+<a href="http://www.mysite.com">Education</a>,
+
+<a href="http://www.mysite.com">Autos</a>,
+
+<a href="http://www.mysite.com">Car Talk</a>,
+
+<a href="http://www.mysite.com">Properties</a>,
+
+<a href="http://www.mysite.com">Health</a>,
+
+<a href="http://www.mysite.com">Family</a>,
+
+<a href="http://www.mysite.com">Culture</a>,
+
+<a href="http://www.mysite.com">Religion</a>,
+
+<a href="http://www.mysite.com">Food</a>,
+
+<a href="http://www.mysite.com">Diaries</a>,
+
+<a href="http://www.mysite.com">Nairaland Ads</a>,
+
+<a href="http://www.mysite.com">Pets</a>,
+
+<a href="http://www.mysite.com">Agriculture</a>
+<hr>
+<a href="http://www.mysite.com">Entertainment</a>:
+
+<a href="http://www.mysite.com">Jokes Etc</a>,
+
+<a href="http://www.mysite.com">Tv/Movies</a>,
+
+<a href="http://www.mysite.com">Music/Radio</a>,
+
+<a href="http://www.mysite.com">Celebrities</a>,
+
+<a href="http://www.mysite.com">Fashion</a>,
+
+<a href="http://www.mysite.com">Events</a>,
+
+<a href="http://www.mysite.com">Sports</a>,
+
+<a href="http://www.mysite.com">Gaming</a>,
+
+<a href="http://www.mysite.com">Forum Games</a>,
+
+<a href="http://www.mysite.com">Literature</a>
+<hr>
+<a href="http://www.mysite.com">Science/Technology</a>:
+
+<a href="http://www.mysite.com">Programming</a>,
+
+<a href="http://www.mysite.com">Webmasters</a>,
+
+<a href="http://www.mysite.com">Computers</a>,
+
+<a href="http://www.mysite.com">Phones</a>,
+
+<a href="http://www.mysite.com">Art</a>,
+
+<a href="http://www.mysite.com">Graphics & Video</a>,
+
+<a href="http://www.mysite.com">Technology Market</a>
+<hr><p align="center"><a href="https://www.mysite.com" style="color:green"> How To<br>
+PLACE TARGETED ADS<br> on Nairaland</p></a>
+<hr>
+<p style=background-color:lightgreen;margin:0px"><a href="http://www.mysite.com">Latest News</a>/
+<a href="http://www.mysite.com">Twitter</a>/
+<a href="http://www.mysite.com">Facebook</a>/
+
+<a href="http://www.mysite.com">How to Advertise</a><br>
+<hr> <p align="center"style=background-color:lightgreen;margin:0px> <a href="http://www.mysite.com">(1)</a> <a href="http://www.mysite.com">(2)</a>
+<a href="http://www.mysite.com">(3)</a>
+<a href="http://www.mysite.com">(4)</a>
+<a href="http://www.mysite.com">(5)</a>
+
+<p align="center"><a href="https://www.mysite.com" style="color:green"> How To<br>
+PLACE TARGETED ADS<br> on Nairaland</p></a>
+<hr>
+<p align="center"><b>Members Online:</b></p>
+(<b>3429 members</b> and <b>365 Guests</b> online in <b>last 5 minutes!</b>)
+<hr>
+<p align="center">
+<a href="https://www.mysite.com">(Go Up)</a>
+<hr>
+<input type="text/number"><form action="http://www.nairaland.com" method="get"><input type="submit" value="search" class="submit"><br>
+<b><a href="https://www.mysite.com">Nairaland</a></b>-Copyright &copy; 2005-2020 <a href="http://www.mysite.com.com">Oluwaseun Osewa</a>. All rights reserved. See <a href="www.mysite.com">How To Advertise</a>. 2
+<br><b> Disclaimer:</b> Every Nairaland member is <b>solely responsible</b> for <b>anything</b> that he/she <b>posts</b> or <b> uploads </b>on Nairaland.
+ 
+ 
+
+<hr 
+<b><p align="center" style="margin:0px"><a href="http://www.mysite.com" style="color:green"><b>&#8358;</span>AIRALAND FORUM</p></b></a>
+Welcome, <b>Guest:</b> <a href="http://www.mysite.com">Join Nairaland</a> /
+<a href="http://www.mysite.com"> <b>LOGIN!</b></a>/
+<a href="http://www.mysite.com">Trending</a>/
+<a href="http://www.mysite.com">Recent</a>/
+<a href="http://www.mysite.com">New</a>
+<br>
+<b>Stats:</b> 2,465,769 members, 5,566,251 topics. <b>Date</b>: saturday, 02 May 2020 at 09:09 AM.
+
+<input type="text/number">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value=search" class="submit">
+<hr>
+<p align="center"><b>Login To Nairaland</b>
+<hr>
+<p align="center"style=background-color:lightgreen;margin:0px>Login With Password:</p><br>
+Username:<input type="text" name="username">
+Password:<input type="password" name="Password">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="Login" class="submit"><hr>
+<p align="center"style=background-color:lightgreen;margin:0px>Reset Your Password:</p><br>
+Please enter your email address and a link allowing you to reset your password will be emailed to you.<br>
+Email:<input type="mail" name="mail">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="Submit" class="submit">
+<hr>
+<input type="text" name="search">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="Search" class="submit">
+Sections: 
+<br> Links: <a href="http://www.mysite.com">(1)</a> <a href="http://www.mysite.com">(2)</a>
+<a href="http://www.mysite.com">(3)</a>
+<a href="http://www.mysite.com">(4)</a>
+<a href="http://www.mysite.com">(5)</a>
+
+<br>
+<b><a href="https://www.mysite.com">Nairaland</a></b>-Copyright &copy; 2005-2020 <a href="http://www.mysite.com.com">Oluwaseun Osewa</a>. All rights reserved. See <a href="www.mysite.com">How To Advertise</a>. 2
+<br><b> Disclaimer</b>: Every Nairaland member is <b>solely responsible</b> for <b>anything</b> that he/she <b>posts</b> or <b> uploads </b>on Nairaland.
+
+
+<hr 
+<b><p align="center" style="margin:0px"><a href="http://www.nairaland.com" style="color:green"><b>&#8358;</span>AIRALAND FORUM</b></p></a>
+Welcome, <b>Guest:</b> <a href="http://www.mysite.com">Join Nairaland</a> /
+<a href="http://www.mysite.com"> <b>LOGIN!</b></a>/
+<a href="http://www.mysite.com">Trending</a>/
+<a href="http://www.mysite.com">Recent</a>/
+<a href="http://www.mysite.com">New</a>
+<br>
+<b>Stats:</b> 2,465,769 members, 5,566,251 topics. <b>Date</b>: saturday, 02 May 2020 at 09:09 AM.
+
+<input type="text/number">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="search" class="submit">
+<hr>
+<p align="center"><b>Join Nairaland Forum / Register</b>
+<hr>
+<p align="center"style=background-color:lightgrey;margin:0px>Email:abc@gmail.com<br></p>
+<p align="center">Username:<br><input type="text" name="username"><br>
+<p align="center"style=background-color:lightgrey;margin:0px> Password:<br><input type="text" name="Password"><br></p>
+<p align="center"><form action="http://www.nairaland.com" method="get">
+<input type="submit" value="Join Nairaland!" class="submit"></p><hr>
+<p align="center">
+<a href="https://www.mysite.com">(Go Up)</a>
+<hr>
+<input type="text" name="search">
+<form action="http://www.nairaland.com" method="get">
+<input type="submit" value="Search" class="submit">
+Sections: 
+<br> Links: <a href="http://www.mysite.com">(1)</a> <a href="http://www.mysite.com">(2)</a>
+<a href="http://www.mysite.com">(3)</a>
+<a href="http://www.mysite.com">(4)</a>
+<a href="http://www.mysite.com">(5)</a>
+
+<br>
+<b><a href="https://www.mysite.com">Nairaland</a></b>-Copyright &copy; 2005-2020 <a href="http://www.mysite.com.com">Oluwaseun Osewa</a>. All rights reserved. See <a href="www.mysite.com">How To Advertise</a>. 2
+<br><b> Disclaimer</b>: Every Nairaland member is <b>solely responsible</b> for <b>anything</b> that he/she <b>posts</b> or <b> uploads </b>on Nairaland.
+ </body> 
+ 
+</html>
