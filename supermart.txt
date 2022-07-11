@@ -1,0 +1,1099 @@
+﻿﻿<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body>  <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header>
+ <nav>
+<hr>
+<p style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/#Home">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/#About">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/#Products">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/contact-us/">Contact Us</a>&nbsp;</code>
+<hr>
+</nav>
+<p align="center"><img src="homeimage.png"><marquee><p style="color:#ccaaff">Welcome to <b>IdeaG Supermarket!</b>We hope you will find our site a better products for improving wellbeing. </marquee></code>
+
+ 
+
+<b>New Products!</b> Check out these recently posted products:<br>
+<a href="http://www.ideagsupermarket.com.ng/description-snail"><img src="snail.jpg"  alt="images snail cream" width="100" height="100"></a>
+<a href="http://www.ideagsupermarket.com.ng/description-dialsoap"><img src="images-1.jpeg"  alt="Dial soap" width="100" height="100"></a>
+
+
+<footer> 
+<hr>
+
+<footer> <code><nav>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+</p><p align="center"><a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;
+</nav>
+
+
+</body> 
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>First HTML</title> 
+</head> 
+ 
+<body> <button style="background-color:#aecedf;color:yellow">I₹S</button> <body p align="center"><h1><sub><p style="color:#0acfc0">IdeaG</h1><p style="background-color:purple;color:#baffc0">Supermarket</p></sub></body>
+ <b>Who We Are<br>
+<p style="color:#0acfc0">IdeaG</b> </body>is a family owned company that operates full-service supermarket in Ede-Osun State.
+We pride ourselves on going to great lengths in order to provide each of the communities that we serve with the products that they love and recall from <i>back home. </i>In fact, it is our passion! Our stores are located in many different neighborhoods, each vibrant with numerous products.
+<p> Our Corporate Core values have emerged from our Mission Statement. They can best be summarized by three words:
+ Value, Variety and Vitality.<br>
+<b>Value:</b> We are committed to providing our customers with the highest-quality goods at a competitive price point. For us, “quality” is not just a word, but a passion. 
+<br>
+<b>Variety:</b> We take immense pride in offering our customers the widest possible selection of uniquely ethnic goods from all over the globe, as well as an extensive selection of mainstream products.<br>
+<b>Vitality:</b> We go to great lengths to ensure that our customers truly enjoy shopping with us.<br>
+<p style="color:#0acfc0"><b>Our motto is:</b> if we wouldn’t buy it for our families, we won’t sell it to yours.
+<footer> <code><nav>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+</p><a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;
+</nav>
+
+
+
+</body>
+ 
+</html>
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header>
+ <nav>
+<hr>
+<p style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/#Home">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/#About">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/#Products">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/contact-us/">Contact Us</a>&nbsp;</code>
+<hr>
+</nav>
+<marquee><img src="supermartImage.png"><p style="color:#ccaaff">Welcome to <b>IdeaG Supermarket!</b>We hope you will find our site a better products for improving wellbeing. </marquee></code>
+
+
+
+<p> <a href="http://www.ideagsupermarket.com/description-snail">
+<img src="snail.jpg" width="100" alt="image skincare brand banner"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.ideagsupermarket.com/description-milk">
+<img src="milk.png"alt="image benna fresh milk" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><a href="http://www.ideagsupermarket.com/description-grain">
+<img src="grain.png"alt="image merrick grain" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.ideagsupermarket.com/description-oil">
+<img src="oil.png"alt="image fortune oil" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br> <a href="http://www.ideagsupermarket.com/description-soap">
+<img src="images-1.jpeg"alt="image dial soap" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="http://www.ideagsupermarket.com/description-sausage">
+<img src="sausage.png"alt="image mild pepperoni sausage" width="100"></a><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.ideagsupermarket.com/description-yogurt">
+<img src="yogurt.png"alt="image nestle brand yogurt" width=100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.ideagsupermarket.com/description-biscuit">
+<img src="biscuit.png"alt="image belvita biscuit" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <a href="http://www.ideagsupermarket.com/description-cheese"><img src="cheese.png"alt="image cheese cake" width="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.ideagsupermarket.com/description-bread"><img src="bread.png"alt="image soft malted bread" width="100"></a>
+</p>
+ <nav> 
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header></code>
+ <nav> 
+
+<b>IMAGE Skincare Vital C Hydrating Facial Cleanser</b><br><img src="snail.jpg"/ alt="image skincare brand banner">
+<br>
+<b>Description</b><br>
+<p align="justify">This creamy, hydrating cleanser emulsifies makeup and removes impurities while quenching skin with essential daily vitamins. Physician formulated.
+<br><b>Benefits</b><br>
+Removes makeup and impurities. Brightens and revitalizes the skin. Soothes and reduces irritation.
+<br><b>Suggested Use</b></br>
+Apply a liberal amount to entire face. Massage for 1 minute for best results. Use morning and evening.</p>
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+
+
+
+
+
+<footer><code> <nav>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;</p>
+<p align="center"><a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header></code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-biscuit">
+<img src="biscuit.png">
+</a>
+</p>
+<b>Product Description</b>
+<br> <p align="justify">
+Biscuits Made with Wholegrain Cereals with a Live Yogurt Filling (13,5 %) and a Strawberry Filling (13,5 %) and Added Minerals.
+
+
+Enjoy as part of a varied and balanced diet and healthy lifestyle.
+<br>Find more information on <a href="http://www.belvitamorning.com">www.belvitamorning.com</a>
+<br>Gently baked breakfast biscuits made with wholegrain cereals with a fruity strawberry centre surrounded by a creamy live yogurt filling.<br>
+Energy for the Whole Morning(1)
+<br>At belVita, we bake delicious biscuits respecting what nature gives us: the natural strength of wholegrains. <br>Our delicious and nutritious biscuits are made with 5 different wholegrains - wheat, oats, barley, spelt and buckwheat or rye. belVita biscuits are gently baked to preserve the nutritional qualities inside.
+belVita Breakfast provides slow release carbohydrates, hour after hour, through your morning. This is why belVita Breakfast is a convenient and nutritious choice for your mornings.
+<br>These belVita biscuits have a high content of slowly digestible starch, which is a slow release carbohydrate. Consumption of foods high in slowly digestible starch raises blood glucose concentration less after a meal compared to foods low in slowly digestible starch.
+No colours or preservatives, Natural source of fibre, Source of Calcium, Magnesium and Iron, Suitable for vegetarians.
+<br>Enjoy a balanced breakfast with belVita with 2 biscuits, a plain dairy product, a fruit and a tea or a coffee.
+Contains 13.9 grams wholegrain cereals per serving (50.6 g). A 50.6 g serving contains at least 15 % of the Nutrient Reference Value of Calcium, Magnesium and Iron.
+Proven to slowly release carbohydrates over 4 hours
+Made with a blend of 5 wholegrains and a source of vitamins and minerals
+Contains 5 packs of 2 breakfast biscuits - a delicious way to start your day!
+<br>Natural source of fibre
+<br>Source of calcium, magnesium and iron
+<br>No colours or preservatives
+<br>Suitable for vegetarians
+
+
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf" >
+<a href="http://www.ideagsupermarket.com/Home" style="color:#yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header></code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-bread">
+<img src="bread.png">
+</a>
+</p>
+<b>Product Description</b>
+<br><p align="justify">
+Sliced White Bread with Malted Wheat Flakes and Wheat Bran
+<br>
+51 calories per slice
+Low fat
+Source of fibre
+Baked by Warburtons
+1 SmartPoints value per slice
+Suitable for vegetarians
+Pack size: 400G
+Low fat
+Source of fibre<br>
+<br>Information ingredients<br>
+Wheat Flour [with Calcium, Iron, Niacin (B3) and Thiamin (B1)], Water, Malted
+Wheat Flakes (5%), Yeast, Coarse Wheat Bran (2%), Wheat Gluten, Cane Molasses, Salt, Fermented Wheat Starch and Wheat Flour, Emulsifiers: E472e, E471, Soya Flour, Flour Treatment Agents: Ascorbic Acid (Vitamin C).<br>
+<br>Allergy Information<br>
+This product is produced in a bakery which uses: Milk, Sesame Seeds and Barley.<br>
+<br>Storage<br>
+To enjoy our baking as its best - store in a cool, dry place, ideally not refrigerated. Under warm conditions storage life will be reduced. If freezing, freeze as soon as possible, and use within three months. For 'Best Before' date see bag closure of label.
+<br>Number of uses<br>
+Contains 20 slices
+
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+<code>
+<footer> 
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;
+</nav>
+</code>
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-cheese">
+<img src="cheese.png">
+</a>
+</p>
+<b>Product Description</b>
+<br> 
+American Cheese Cake is one of our sweet desert products. The cake is inspired by the NY cheesecake. The special recipes of cheese powder with heavenly pure flavour have been added to this cake. The soft and minimalist taste of sweetness gives a perfect homey effect in each bite.
+
+
+
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-soap">
+<img src="grain.png">
+</a>
+</p>
+<b>Product Description</b>
+<br>
+Best-in-class nutrition and big-time taste? Merrick Classic Healthy Grains dry dog food treats your dog to both and more, in easily digestible recipes that balance protein, fruits, vegetables and a healthy blend of whole grains—including ancient grains to support optimal digestion—and supply high levels of fiber, Omega-3 and 6 fatty acids, glucosamine and chondroitin. Merrick Classic Healthy Grains is best for puppies and adult dogs.<br>
+<br><b>Full of fiber and whole grains.</b> <br>Crafted with a blend of grains including brown rice, barley and quinoa.<br>
+<b>Ingredients:</b>
+Deboned Lamb, Salmon Meal, Brown Rice, Barley, Oatmeal, Lamb Meal, Chicken Fat, Quinoa, Natural Flavor, Flaxseed, Salt, Organic Dehydrated Alfalfa Meal, Potassium Chloride, Choline Chloride, Carrots, Apples, Minerals (Iron Amino Acid Complex, Zinc Amino Acid Complex, Zinc Sulfate, Sodium Selenite, Manganese Amino Acid Complex, Copper Amino Acid Complex, Potassium Iodide, Cobalt Proteinate, Cobalt Carbonate), Taurine, Chia Seed, Yucca Schidigera Extract, Mixed Tocopherols for freshness, Vitamins (Vitamin E Supplement, Vitamin B12 Supplement, Vitamin A Acetate, d-Calcium Pantothenate, Thiamine Mononitrate, Niacin, Riboflavin Supplement, Biotin, Vitamin D3 Supplement, Folic Acid, Pyridoxine Hydrochloride), Citric Acid for freshness, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product.<br>
+<b>Guaranteed analysis</b>
+Nutrient Guaranteed Units
+<table border="0"><td>Crude Protein 23.0% min</td>
+<td>Crude Fat 16.0% min</td>
+<td>Crude Fiber 3.5% max</td>
+<td>Moisture 11.0% max</td>
+<td>Omega-6 Fatty Acids
+2.0% min</td>
+<td>Omega-3 Fatty Acids
+0.75% min</td>
+<td>Glucosamine 800 mg/kg min</td>
+<td>Chondroitin Sulfate 800 mg/kg min</td>
+</table>
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-milk">
+<img src="milk.png">
+</a>
+</p>
+<b>Product Description</b>
+<br>
+<p align="justify">Did you know that...Benna milk and milk products are delivered everyday from Monday to Saturday early in the morning. This ensures that the product reaches you as fresh as it can be!
+Buy buying Benna products, you will be supporting the local dairy and agricultural industry.</p>
+
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> 
+<hr><code>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-oil">
+<img src="oil.png">
+</a>
+</p>
+<p align="justify"><b>Product Description</b>
+<br>
+Consumer pack edible oils- fortune.
+We manufacture branded small pack edible oils under the global brand name Fortune. 
+<br>Fortune cooking oil is a trending consumer product in the market for health conscious consumers on the lookout for a premium quality cooking oil at a more affordable price.
+<br>In 2015, Fortune Cooking Oil was adjudged to be the number one edible oil brand in Sri Lanka according to the Lanka Market Research Bureau’s Household Panel research.</p>
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-sausage">
+<img src="sausage.png">
+</a>
+</p>
+<b>Product Description</b>
+<br> 
+Our Mild Pepperoni Sticks are made with high quality pork and beef perfectly mixed with a special blend of spices. As with other Harvest products, it is cooked and naturally smoked with real hardwood chips which gives this product a rich smoke flavour. Makes a perfect snack.<br>
+<b>Ingredients</b>
+<br>Pork and Beef, Water, Modified corn starch, Modified milk ingredients, Salt, Spices and spice extracts, Sodium phosphate, Dextrose, Sodium erythorbate, Garlic, Sodium nitrite, Smoke.
+
+
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-dialsoap">
+<img src="images-1.jpeg">
+</a>
+</p>
+<b>Description</b>
+<br>
+This is the bar that built the Dial company. After more than 60 years, this icon, with its rich gold color and bracing scent, is the bar you can trust for deodorant protection and long-lasting clean.
+<br><hr>
+<b>Features & Details<br>
+
+Brand Heritage:</b> With its rich gold Color and bracing scent, is the bar you can trust for deodorant Protection and long lasting clean.
+<br><b>Kills Bacteria: </b>Trusted antibacterial deodorant Protection technology that kills odor causing bacteria long after you wash.<br><b>Odor Protection:</b> Round the clock odor protection to help you feel clean and fresh all day long.
+<b><br>Moisture Balance: </b>Clean rinsing and hydrating formula for the perfect balance of clean and moisturized.<br>
+<b>Creamy Lather: </b>Formulated to provide creamy, moisture rich lather that washes away bacteria without drying skin.
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>supermart HTML</title> 
+
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header> </code>
+ <nav> 
+<p> 
+<a href="http://www.ideagsupermarket.com/description-yogurt">
+<img src="yogurt.png">
+</a>
+</p>
+<b>Product Description</b>
+<br>
+<p align="justify">
+Features<br>
+With live culture, No artificial flavouring, Halal-Malaysia
+<br>Product Marketing<br>
+<br>Fat free yogurt strawberry<br>
+Good to Know
+Nestlé® Yogurt is 99.9% fat free and taste delicious. You can enjoy it while controlling your fat intake.
+<br>Other Information<br>
+Serving Size: 135g
+Serving Per Package: 1<br>
+<br>Ingredients<br>
+Milk Solids, Strawberry Fruit (contains Citric Acid, Sorbic Acid), Sugar, Stabiliser, Dicalcium Phosphate, Mixed Live Culture (Lactobacillus Bulgaricus, Streptococcus Thermophilus), Flavouring, Colouring, Contains Stabiliser as Permitted Food Conditioner, Contains Permitted Flavouring and Colouring (Anthocyanins), All Additives are of plant or synthetic origin<br>
+
+
+
+
+
+<br><a href="http://www.ideagsupermarket.com/description-cream">SHARE<br>
+<a href="http://www.facebook.com/login"><button style="background-color:blue">f</button> <a href="http://www.twitter.com/login"><button style="background-color:lightblue">t@</button>
+
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#aecedf">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;</code>
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+ 
+<head> 
+ <title>Contact HTML<a href="http://www.ideagsupermarket.com/contact-us"></title> 
+</head> 
+ 
+<body> <header align="center"  style="background-color:#ab00fb;color:#baffc0">
+ <b><p align="center"><hgroup><code><h1>IdeaG Supermarket</h1><sub><i>Bringing shopping to your doorstep</i></sub></b></hgroup><button style="background-color:#aecedf;color:yellow">I₹S</button><input type="search" value="available products"><input type="submit" value="search" class="submit" style="color:yellow"></body></header></code>
+ <nav> 
+<p align="center"><img src="customer service.png" width="150" height="90">
+ <b><p align="center"style="color:#0acfc0">CONTACT US<br></b> <code><p align="center" style="color:#777777"<sub>IdeaG Supermarket</sub></p></code><br>
+<b>This Message is Concerning *</b>
+<select><option value="1">Customer Service</option> <option value="2">Product Availability</option> <option value="3">Quality of Products</option>
+<option value="4">Other</option>
+</select>
+<br> 
+<b>Your Name *</b><br>
+<input type="text" name="name"><br>First<br>
+<input type="text" name="name"><br> Last<br>
+<b>Email *<br> <input type="text" name="name">
+<br>Phone<br>
+<input type="text" name="name">
+<br>Message *<br>
+<textarea></textarea><br>
+<form action="http://www.ideagsupermarket.com" method="post"><input type="submit" value="submit" class="submit" style="color:#0acfc0"></b>
+ 
+<footer> <code>
+<hr>
+<p align="center"style="margin:0px; background-color:#0acfc0">
+<a href="http://www.ideagsupermarket.com/Home" style="color:yellow">Home</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/about">About Us</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/products" style="color:yellow">Our Products</a>&nbsp;
+<a href="http://www.ideagsupermarket.com/Contact">Contact Us</a>&nbsp;
+<br></p>
+<p align="center"> <a href="http://www.ideagsupermarket.com/usage policy"style="color:#777777">Terms of Use</a> l<a href="http://www.ideagsupermarket.co /Policy"style="color:#777777"> Privacy Policy</a><br>
+Copyright &copy; 2020 IdeaG Supermart&trade;
+</nav>
+
+
+
+</body>
+
+ 
+</html>
+
